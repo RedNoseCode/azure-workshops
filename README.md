@@ -9,6 +9,7 @@ Til nå er disse modulene planlagt.
   * App Services
   * Key Vault
   * Storage 
+  * test
 
 * Workshop #2: DevOps
   * Azure DevOps
