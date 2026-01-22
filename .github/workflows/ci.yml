@@ -42,3 +42,4 @@ jobs:
           echo "List of files in the repository:"
           ls -la
           echo "Running test"
+          echo "test2"
